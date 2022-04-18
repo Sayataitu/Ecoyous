@@ -1,0 +1,36 @@
+body {
+  color: black;
+  background-color:white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0;
+}
+    .icon {display: block;
+      width: 70px; height: 70px;}
+.fa-brands{
+       color:white;
+       margin: 5px;
+      }
+hr{border-style: none;
+  background-color:#9ccba3 ;
+   height:2px;}
+   button{
+     background-color: #9ccba3;
+   }
+   .container-fluid{
+     background-color: white;
+   }
+footer{
+    background-color:#9ccba3;
+}
+.MyDiv{
+  background-color: white;
+}
+.navbar{
+  background-color: #9ccba3;
+}
+.delivery{
+  background-color: #9ccba3;
+}
